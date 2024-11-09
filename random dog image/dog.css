@@ -1,0 +1,16 @@
+body{
+    justify-items: center;
+    background-color: rgb(216, 185, 245);
+}
+
+.image{
+    height: 500px;
+    width: 500px;
+    overflow: hidden;
+}
+
+button{
+    height: 30px;
+    border: lightgray;
+    color: blueviolet;
+}
